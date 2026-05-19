@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cc43e6a1-a009-4fef-acf8-b40d005daa56" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endpoints/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/endpoints/api_constants.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/payload_manager/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/payload_manager/payload_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/verification/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/verification/common_verification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/wrapper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modules(helpers)/wrapper/api_requests_wrapper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pytest runs tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/crud/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/e2e/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sample/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sample/test_sample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/APIAutoamtionFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APIAutoamtionFramework.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "simran786-QA"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/simran786-QA/APIAutoamtionFramework.git",
+    "accountId": "47adf906-c73f-442f-823a-587a0679bfe5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="36wEECbQKvL3xsZvTODGBeY6SaU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "Merging main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc43e6a1-a009-4fef-acf8-b40d005daa56" name="Changes" comment="" />
+      <created>1765909119474</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765909119474</updated>
+    </task>
+    <servers />
+  </component>
+</project>
