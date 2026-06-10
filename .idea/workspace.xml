@@ -4,68 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cc43e6a1-a009-4fef-acf8-b40d005daa56" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/endpoints/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/endpoints/api_constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/payload_manager/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/payload_manager/payload_manager.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/verification/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/verification/common_verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/wrapper/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules(helpers)/wrapper/api_requests_wrapper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest runs tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/crud/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/e2e/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sample/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/sample/test_sample.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/APIAutoamtionFramework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/APIAutoamtionFramework.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cc43e6a1-a009-4fef-acf8-b40d005daa56" name="Changes" comment="Merge remote-tracking branch 'origin/main'">
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/endpoints/api_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules(helpers)/payload_manager/payload_manager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules(helpers)/verification/common_verification.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules(helpers)/wrapper/api_requests_wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/sample/test_sample.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="simran786-QA &lt;smrntester@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "simran786-QA"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;simran786-QA&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/simran786-QA/APIAutoamtionFramework.git",
-    "accountId": "47adf906-c73f-442f-823a-587a0679bfe5"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/simran786-QA/APIAutoamtionFramework.git&quot;,
+    &quot;accountId&quot;: &quot;47adf906-c73f-442f-823a-587a0679bfe5&quot;
   }
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="36wEECbQKvL3xsZvTODGBeY6SaU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "to.speed.mode.migration.done": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\APIAutoamtionFramework\test\crud" />
+      <recent name="E:\APIAutoamtionFramework\test" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -81,6 +92,83 @@
       <option name="presentableId" value="Default" />
       <updated>1765909119474</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add API automation framework with CRUD test cases">
+      <option name="closed" value="true" />
+      <created>1779181265641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779181265641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="init file">
+      <option name="closed" value="true" />
+      <created>1779301739288</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1779301739288</updated>
+    </task>
+    <task id="LOCAL-00003" summary="to CRUD">
+      <option name="closed" value="true" />
+      <created>1779301789831</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1779301789831</updated>
+    </task>
+    <task id="LOCAL-00004" summary="vrification responses">
+      <option name="closed" value="true" />
+      <created>1779301829110</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1779301829110</updated>
+    </task>
+    <task id="LOCAL-00005" summary="vrification of token">
+      <option name="closed" value="true" />
+      <created>1779301925754</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1779301925754</updated>
+    </task>
+    <task id="LOCAL-00006" summary="vrification of status code and allure reporting">
+      <option name="closed" value="true" />
+      <created>1779301969820</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1779301969820</updated>
+    </task>
+    <task id="LOCAL-00007" summary="vrification of status code and allure reporting">
+      <option name="closed" value="true" />
+      <created>1779819222076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1779819222076</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'">
+      <option name="closed" value="true" />
+      <created>1779820313586</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1779820313586</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add API automation framework with CRUD test cases" />
+    <MESSAGE value="init file" />
+    <MESSAGE value="to CRUD" />
+    <MESSAGE value="vrification responses" />
+    <MESSAGE value="vrification of token" />
+    <MESSAGE value="post_request with payload" />
+    <MESSAGE value="vrification of status code and allure reporting" />
+    <MESSAGE value="Test CRUD operation Update(PUT" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
   </component>
 </project>
